@@ -1,0 +1,7 @@
+- class_name: Friends
+  class_desc: How happy we are, To meet friends from afar!
+  link_list:
+  - name: "前端记录"
+    link: "https://fe-blog.front-end-js.top"
+    avatar: "https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/1698312815276.jpg"
+    descr: "怕什么真理无穷，进一寸有一寸的欢喜。"
